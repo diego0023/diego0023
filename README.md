@@ -8,7 +8,7 @@ Web development and AI
 * Email: diegogalan.0023@gmail.com
 * [Linkedin]()
 
-⚡ Languages and Tools:
+#### ⚡ Languages and Tools:
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 -->
 
 ------
-<details>
- <summary>GitHub Metrics</summary>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego0023&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- </details>
+
+#### ✨ GitHub Metrics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego0023&layout=compact&theme=vision-friendly-dark)]   (https://github.com/anuraghazra/github-readme-stats)
+
 
