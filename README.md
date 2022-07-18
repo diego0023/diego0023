@@ -6,7 +6,7 @@ Web development and AI
 
 #### 📫 How to reach me:
 * Email: diegogalan.0023@gmail.com
-* [Linkedin]()
+* [Linkedin](https://www.linkedin.com/in/diego-gal%C3%A1n-8b3927245/)
 
 #### ⚡ Languages and Tools:
 <div>
